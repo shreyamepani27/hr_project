@@ -1,0 +1,9 @@
+FILES IN THIS PROJECT:
+main.py
+analytics.py
+charts.py
+record_manager.py
+test_training.py
+training_records.csv
+requirements.txt
+README.txt
